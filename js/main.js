@@ -27,7 +27,7 @@ if (i < imgs.length) {
 chPa.style.backgroundImage = 'url("../css/img/'+imgs[i]+'")';
 i++
 }else{ i = 0;}
-}, 10000);
+}, 3000);
 
 // end chang foto
 
